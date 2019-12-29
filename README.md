@@ -1,1 +1,1 @@
-### ogwp-error v.1.0
+### ogwp-error v. 1.0
