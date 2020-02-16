@@ -7,4 +7,4 @@
 <br></br>
 <br></br>
 <p id="sorry">The next version is:</p>
-<p id="sorry"><?php include "next-version.txt"?></p>
+<p id="sorry"><?php include "next-version.txt" ?></p>
