@@ -1,1 +1,1 @@
-### ogwp-error v. 4.0.2
+### ogwp-error v. 4.1.0
